@@ -54,7 +54,6 @@ The completed solution includes:
 - Fraud rate analysis by channel
 - Dynamic fraud recommendations
 - Top-N city risk analysis
-- Interactive filtering and drill-down capabilities
 
 ---
 
