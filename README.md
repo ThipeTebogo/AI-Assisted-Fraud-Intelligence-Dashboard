@@ -7,9 +7,20 @@
 ![Claude AI](https://img.shields.io/badge/Claude-AI_Assisted-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
+## Executive Fraud Intelligence Dashboard
+
+The completed dashboard combines executive KPI monitoring, behavioural fraud analysis, geographic risk analysis, and AI-assisted recommendations into a single interactive report.
+
+<p align="center">
+  <img src="docs/dashboard-annotated.png" alt="Annotated Fraud Intelligence Dashboard" width="1000">
+</p>
+
+*Figure 1. Annotated dashboard highlighting the six core analytical components used to monitor fraud exposure, identify high-risk segments, and support investigation through AI-assisted recommendations.*
+
 > ## Dashboard Preview
 >
-> <img width="1396" height="775" alt="AI-Assisted Fraud Intelligence Dashboard Screenshot" src="https://github.com/user-attachments/assets/45da7804-825e-4a56-89a9-877314195dd1" />
+><img width="1280" height="720" alt="Annotated Fraud Intelligence Dashboard" src="https://github.com/user-attachments/assets/9eb3f78b-2d3f-4553-ada5-aabede171709" />
+
 
 
 ---
@@ -20,7 +31,7 @@
 
 Artificial Intelligence is transforming the way analysts build reports, write calculations, and solve business problems. While AI can significantly accelerate development, it cannot replace analytical thinking, business understanding, or technical validation.
 
-I built this project to explore how AI can be integrated into a professional Business Intelligence workflow using **Claude (Power BI MCP Modelling)** as a collaborative development partner.
+I built this project to explore how AI can be integrated into a professional Business Intelligence workflow using **Claude (Power BI Modelling MCP Server)** as a collaborative development partner.
 
 Rather than asking AI to build the dashboard from start to finish, I used Claude throughout the project to assist with:
 
