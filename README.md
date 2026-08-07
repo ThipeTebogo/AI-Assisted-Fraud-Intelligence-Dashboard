@@ -11,17 +11,13 @@
 
 The completed dashboard combines executive KPI monitoring, behavioural fraud analysis, geographic risk analysis, and AI-assisted recommendations into a single interactive report.
 
-<p align="center">
-  <img src="docs/dashboard-annotated.png" alt="Annotated Fraud Intelligence Dashboard" width="1000">
-</p>
+<img width="1396" height="775" alt="AI-Assisted Fraud Intelligence Dashboard Screenshot" src="https://github.com/user-attachments/assets/49d506b7-48a9-413d-87fe-a81964a4d469" />
 
-*Figure 1. Annotated dashboard highlighting the six core analytical components used to monitor fraud exposure, identify high-risk segments, and support investigation through AI-assisted recommendations.*
 
 > ## Dashboard Preview
 >
 ><img width="1280" height="720" alt="Annotated Fraud Intelligence Dashboard" src="https://github.com/user-attachments/assets/9eb3f78b-2d3f-4553-ada5-aabede171709" />
-
-
+*Figure 1. Annotated dashboard highlighting the six core analytical components used to monitor fraud exposure, identify high-risk segments, and support investigation through AI-assisted recommendations.*
 
 ---
 
